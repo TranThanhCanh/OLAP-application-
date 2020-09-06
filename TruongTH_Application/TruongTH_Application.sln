@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruongTH_Application", "TruongTH_Application.csproj", "{8791705D-F17D-4D60-A548-0B74E6C4E641}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTruongTieuHoc", "..\SetupTruongTieuHoc\SetupTruongTieuHoc.vdproj", "{31FCB0A6-D412-4756-8236-08F9B11FD711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8791705D-F17D-4D60-A548-0B74E6C4E641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8791705D-F17D-4D60-A548-0B74E6C4E641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8791705D-F17D-4D60-A548-0B74E6C4E641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8791705D-F17D-4D60-A548-0B74E6C4E641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FCB0A6-D412-4756-8236-08F9B11FD711}.Debug|Any CPU.ActiveCfg = Debug
+		{31FCB0A6-D412-4756-8236-08F9B11FD711}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BD1CAD-B940-4F85-A97F-A898FAF136B5}
+	EndGlobalSection
+EndGlobal
